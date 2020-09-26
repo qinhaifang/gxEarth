@@ -88,7 +88,22 @@ export default {
         } else if (item.name == "永吉村加拉至干真屯级路建设") {
           Bus.$emit("select_project2");
           Bus.$emit("project-click-event", item.name);
-        } else {
+        } else if (item.name == "六山村龙项屯乡级饮水安全巩固提升工程（新建水厂一个）") {
+          Bus.$emit("select_project2");
+          Bus.$emit("project-click-event", item.name);
+        }else if (item.name == "江洒水库移民新村提升工程") {
+          Bus.$emit("select_project2");
+          Bus.$emit("project-click-event", item.name);
+        }else if (item.name == "孟荣水库移民新村续建工程") {
+          Bus.$emit("select_project2");
+          Bus.$emit("project-click-event", item.name);
+        }else if (item.name == "拉烈镇地平村花东坳口至弄险道路") {
+          Bus.$emit("select_project2");
+          Bus.$emit("project-click-event", item.name);
+        }else if (item.name == "推内水库移民新村提升工程") {
+          Bus.$emit("select_project2");
+          Bus.$emit("project-click-event", item.name);
+        }else {
           Bus.$emit("select_project");
           Bus.$emit("clear-all-mark");
           Bus.$emit("zone-click-event", "金秀瑶族自治县")

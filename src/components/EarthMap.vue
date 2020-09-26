@@ -519,7 +519,342 @@ export default {
             "2018-02-06": "sh",
             "2019-09-20": "sh"
           }
-        }
+        },
+        {
+          centerPosition: {
+            lon: 107.9019,
+            lat: 24.1778,
+            height: 10000
+          },
+          serviceId: "18a6f2fc-f794-4e8b-bfc8-8d5da3e4ee4f",
+          name: "六山村龙项屯乡级饮水安全巩固提升工程（新建水厂一个）",
+          xmzj: "48 万元",
+          jsdz: "忠良乡双合村",
+          xmnd: "2019年",
+          fgpkc: "忠良乡双合村",
+          xmzgdw: "金秀县扶贫办",
+          xmfzr: "李东",
+          lxfs: "18778247770",
+          jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
+          shxy: "带动增加贫困人口收入0.5万元，受益贫困人口61人",
+          sgSchedule: {
+            sgqsm: {
+              xmzk: "项目状况：交通不便，影响当地经济发展"
+            },
+            sgzsm: {
+              sgrq: "2019-1至2019-11",
+              sqzj: "453万元",
+              zbwj: "金财农【2019】3号",
+              zjzfrq: "2019-03-27;2019-06-21;2019-08-28",
+              dqy: "金秀瑶族自治县城乡建设投资有限公司",
+              zfzj: "435.39万元"
+            },
+            sghsm: {
+              jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
+              shxy:
+                "切实改变项目区贫困群众出行难，明显改善项目区贫困落后的交通运输状况。"
+            }
+          },
+          result: [
+            {
+              dataEntry: "<span style='font-size: 18px'>工程量</span>",
+              target: "建设10.742公里（路基路面路肩、水沟涵洞）",
+              state: "图上作业测量建设约10.75公里",
+              compare:
+                "<span style='color:rgba(0,255,0,1)'>工程量满足要求</span>"
+            },
+            {
+              dataEntry: "<span style='font-size: 18px'>项目进度</span>",
+              target: "2019年1月至2019年11月",
+              state: "2019年11月监测到项目已按期完成",
+              compare:
+                "<span style='style='color:rgba(0,255,0,1)'>项目按期完成</span>"
+            },
+            {
+              dataEntry: "<span style='font-size: 18px'>资金拨付进度</span>",
+              target:
+                "2019年8月14日资金下达到金秀县扶贫办2037万元，包含本项目金额453万元",
+              state:
+                "2019年3月27日支付183.74万元<br/><br/>2019年6月21日支付34万元<br/><br/>2019年6月21日支付134.45万元<br/><br/>2019年8月28日支付52万元",
+              compare:
+                "<img src='static/images/warn.png' style='width:20px;height:20px;'/><span style='color:rgba(255,0,0,1)'>预警：资金未全部支付</span>"
+            }
+          ],
+          roadFileName: {
+            "2017-02-11": "sh",
+            "2017-10-30": "sh",
+            "2018-02-06": "sh",
+            "2019-09-20": "sh"
+          }
+        },
+        {
+          centerPosition: {
+            lon: 108.1172,
+            lat: 23.9340,
+            height: 10000
+          },
+          serviceId: "18a6f2fc-f794-4e8b-bfc8-8d5da3e4ee4f",
+          name: "江洒水库移民新村提升工程",
+          xmzj: "48 万元",
+          jsdz: "忠良乡双合村",
+          xmnd: "2019年",
+          fgpkc: "忠良乡双合村",
+          xmzgdw: "金秀县扶贫办",
+          xmfzr: "李东",
+          lxfs: "18778247770",
+          jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
+          shxy: "带动增加贫困人口收入0.5万元，受益贫困人口61人",
+          sgSchedule: {
+            sgqsm: {
+              xmzk: "项目状况：交通不便，影响当地经济发展"
+            },
+            sgzsm: {
+              sgrq: "2019-1至2019-11",
+              sqzj: "453万元",
+              zbwj: "金财农【2019】3号",
+              zjzfrq: "2019-03-27;2019-06-21;2019-08-28",
+              dqy: "金秀瑶族自治县城乡建设投资有限公司",
+              zfzj: "435.39万元"
+            },
+            sghsm: {
+              jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
+              shxy:
+                "切实改变项目区贫困群众出行难，明显改善项目区贫困落后的交通运输状况。"
+            }
+          },
+          result: [
+            {
+              dataEntry: "<span style='font-size: 18px'>工程量</span>",
+              target: "建设10.742公里（路基路面路肩、水沟涵洞）",
+              state: "图上作业测量建设约10.75公里",
+              compare:
+                "<span style='color:rgba(0,255,0,1)'>工程量满足要求</span>"
+            },
+            {
+              dataEntry: "<span style='font-size: 18px'>项目进度</span>",
+              target: "2019年1月至2019年11月",
+              state: "2019年11月监测到项目已按期完成",
+              compare:
+                "<span style='style='color:rgba(0,255,0,1)'>项目按期完成</span>"
+            },
+            {
+              dataEntry: "<span style='font-size: 18px'>资金拨付进度</span>",
+              target:
+                "2019年8月14日资金下达到金秀县扶贫办2037万元，包含本项目金额453万元",
+              state:
+                "2019年3月27日支付183.74万元<br/><br/>2019年6月21日支付34万元<br/><br/>2019年6月21日支付134.45万元<br/><br/>2019年8月28日支付52万元",
+              compare:
+                "<img src='static/images/warn.png' style='width:20px;height:20px;'/><span style='color:rgba(255,0,0,1)'>预警：资金未全部支付</span>"
+            }
+          ],
+          roadFileName: {
+            "2017-02-11": "sh",
+            "2017-10-30": "sh",
+            "2018-02-06": "sh",
+            "2019-09-20": "sh"
+          }
+        },
+        {
+          centerPosition: {
+            lon: 108.4289,
+            lat: 24.0792,
+            height: 10000
+          },
+          serviceId: "18a6f2fc-f794-4e8b-bfc8-8d5da3e4ee4f",
+          name: "孟荣水库移民新村续建工程",
+          xmzj: "48 万元",
+          jsdz: "忠良乡双合村",
+          xmnd: "2019年",
+          fgpkc: "忠良乡双合村",
+          xmzgdw: "金秀县扶贫办",
+          xmfzr: "李东",
+          lxfs: "18778247770",
+          jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
+          shxy: "带动增加贫困人口收入0.5万元，受益贫困人口61人",
+          sgSchedule: {
+            sgqsm: {
+              xmzk: "项目状况：交通不便，影响当地经济发展"
+            },
+            sgzsm: {
+              sgrq: "2019-1至2019-11",
+              sqzj: "453万元",
+              zbwj: "金财农【2019】3号",
+              zjzfrq: "2019-03-27;2019-06-21;2019-08-28",
+              dqy: "金秀瑶族自治县城乡建设投资有限公司",
+              zfzj: "435.39万元"
+            },
+            sghsm: {
+              jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
+              shxy:
+                "切实改变项目区贫困群众出行难，明显改善项目区贫困落后的交通运输状况。"
+            }
+          },
+          result: [
+            {
+              dataEntry: "<span style='font-size: 18px'>工程量</span>",
+              target: "建设10.742公里（路基路面路肩、水沟涵洞）",
+              state: "图上作业测量建设约10.75公里",
+              compare:
+                "<span style='color:rgba(0,255,0,1)'>工程量满足要求</span>"
+            },
+            {
+              dataEntry: "<span style='font-size: 18px'>项目进度</span>",
+              target: "2019年1月至2019年11月",
+              state: "2019年11月监测到项目已按期完成",
+              compare:
+                "<span style='style='color:rgba(0,255,0,1)'>项目按期完成</span>"
+            },
+            {
+              dataEntry: "<span style='font-size: 18px'>资金拨付进度</span>",
+              target:
+                "2019年8月14日资金下达到金秀县扶贫办2037万元，包含本项目金额453万元",
+              state:
+                "2019年3月27日支付183.74万元<br/><br/>2019年6月21日支付34万元<br/><br/>2019年6月21日支付134.45万元<br/><br/>2019年8月28日支付52万元",
+              compare:
+                "<img src='static/images/warn.png' style='width:20px;height:20px;'/><span style='color:rgba(255,0,0,1)'>预警：资金未全部支付</span>"
+            }
+          ],
+          roadFileName: {
+            "2017-02-11": "sh",
+            "2017-10-30": "sh",
+            "2018-02-06": "sh",
+            "2019-09-20": "sh"
+          }
+        },
+        {
+          centerPosition: {
+            lon: 108.2328,
+            lat: 24.2289,
+            height: 10000
+          },
+          serviceId: "18a6f2fc-f794-4e8b-bfc8-8d5da3e4ee4f",
+          name: "拉烈镇地平村花东坳口至弄险道路",
+          xmzj: "48 万元",
+          jsdz: "忠良乡双合村",
+          xmnd: "2019年",
+          fgpkc: "忠良乡双合村",
+          xmzgdw: "金秀县扶贫办",
+          xmfzr: "李东",
+          lxfs: "18778247770",
+          jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
+          shxy: "带动增加贫困人口收入0.5万元，受益贫困人口61人",
+          sgSchedule: {
+            sgqsm: {
+              xmzk: "项目状况：交通不便，影响当地经济发展"
+            },
+            sgzsm: {
+              sgrq: "2019-1至2019-11",
+              sqzj: "453万元",
+              zbwj: "金财农【2019】3号",
+              zjzfrq: "2019-03-27;2019-06-21;2019-08-28",
+              dqy: "金秀瑶族自治县城乡建设投资有限公司",
+              zfzj: "435.39万元"
+            },
+            sghsm: {
+              jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
+              shxy:
+                "切实改变项目区贫困群众出行难，明显改善项目区贫困落后的交通运输状况。"
+            }
+          },
+          result: [
+            {
+              dataEntry: "<span style='font-size: 18px'>工程量</span>",
+              target: "建设10.742公里（路基路面路肩、水沟涵洞）",
+              state: "图上作业测量建设约10.75公里",
+              compare:
+                "<span style='color:rgba(0,255,0,1)'>工程量满足要求</span>"
+            },
+            {
+              dataEntry: "<span style='font-size: 18px'>项目进度</span>",
+              target: "2019年1月至2019年11月",
+              state: "2019年11月监测到项目已按期完成",
+              compare:
+                "<span style='style='color:rgba(0,255,0,1)'>项目按期完成</span>"
+            },
+            {
+              dataEntry: "<span style='font-size: 18px'>资金拨付进度</span>",
+              target:
+                "2019年8月14日资金下达到金秀县扶贫办2037万元，包含本项目金额453万元",
+              state:
+                "2019年3月27日支付183.74万元<br/><br/>2019年6月21日支付34万元<br/><br/>2019年6月21日支付134.45万元<br/><br/>2019年8月28日支付52万元",
+              compare:
+                "<img src='static/images/warn.png' style='width:20px;height:20px;'/><span style='color:rgba(255,0,0,1)'>预警：资金未全部支付</span>"
+            }
+          ],
+          roadFileName: {
+            "2017-02-11": "sh",
+            "2017-10-30": "sh",
+            "2018-02-06": "sh",
+            "2019-09-20": "sh"
+          }
+        },
+        {
+          centerPosition: {
+            lon: 108.1268,
+            lat: 23.9460,
+            height: 10000
+          },
+          serviceId: "18a6f2fc-f794-4e8b-bfc8-8d5da3e4ee4f",
+          name: "推内水库移民新村提升工程",
+          xmzj: "48 万元",
+          jsdz: "忠良乡双合村",
+          xmnd: "2019年",
+          fgpkc: "忠良乡双合村",
+          xmzgdw: "金秀县扶贫办",
+          xmfzr: "李东",
+          lxfs: "18778247770",
+          jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
+          shxy: "带动增加贫困人口收入0.5万元，受益贫困人口61人",
+          sgSchedule: {
+            sgqsm: {
+              xmzk: "项目状况：交通不便，影响当地经济发展"
+            },
+            sgzsm: {
+              sgrq: "2019-1至2019-11",
+              sqzj: "453万元",
+              zbwj: "金财农【2019】3号",
+              zjzfrq: "2019-03-27;2019-06-21;2019-08-28",
+              dqy: "金秀瑶族自治县城乡建设投资有限公司",
+              zfzj: "435.39万元"
+            },
+            sghsm: {
+              jsgmjnr: "建设10.742公里（路基路面路肩、水沟涵洞）",
+              shxy:
+                "切实改变项目区贫困群众出行难，明显改善项目区贫困落后的交通运输状况。"
+            }
+          },
+          result: [
+            {
+              dataEntry: "<span style='font-size: 18px'>工程量</span>",
+              target: "建设10.742公里（路基路面路肩、水沟涵洞）",
+              state: "图上作业测量建设约10.75公里",
+              compare:
+                "<span style='color:rgba(0,255,0,1)'>工程量满足要求</span>"
+            },
+            {
+              dataEntry: "<span style='font-size: 18px'>项目进度</span>",
+              target: "2019年1月至2019年11月",
+              state: "2019年11月监测到项目已按期完成",
+              compare:
+                "<span style='style='color:rgba(0,255,0,1)'>项目按期完成</span>"
+            },
+            {
+              dataEntry: "<span style='font-size: 18px'>资金拨付进度</span>",
+              target:
+                "2019年8月14日资金下达到金秀县扶贫办2037万元，包含本项目金额453万元",
+              state:
+                "2019年3月27日支付183.74万元<br/><br/>2019年6月21日支付34万元<br/><br/>2019年6月21日支付134.45万元<br/><br/>2019年8月28日支付52万元",
+              compare:
+                "<img src='static/images/warn.png' style='width:20px;height:20px;'/><span style='color:rgba(255,0,0,1)'>预警：资金未全部支付</span>"
+            }
+          ],
+          roadFileName: {
+            "2017-02-11": "sh",
+            "2017-10-30": "sh",
+            "2018-02-06": "sh",
+            "2019-09-20": "sh"
+          }
+        },
       ],
       tableData: [],
       currentProject: {}
