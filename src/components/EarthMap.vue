@@ -715,10 +715,9 @@ export default {
             }
           ],
           roadFileName: {
-            "2017-02-11": "sh",
-            "2017-10-30": "sh",
-            "2018-02-06": "sh",
-            "2019-09-20": "sh"
+            "2019-03-12": "sh",
+            "2019-11-11": "sh",
+            "2020-04-09": "sh"
           }
         },
         {
@@ -932,8 +931,8 @@ export default {
         //       this.flyTo(position.lon, position.lat, position.height);
 
         //       //添加路线
-        //       let fileName = this.currentProject.roadFileName[time];
-        //       this.loadPolygonData(fileName);
+              let fileName = this.currentProject.roadFileName[time];
+              this.loadPolygonData(fileName);
         //     }
         //   }
         // });
@@ -1276,12 +1275,12 @@ export default {
     //添加影像
     addImageLayers(data, level) {
       const matrixIds = new Array();
-      this.extent = {
-        west: data.extent.minx,
-        south: data.extent.miny,
-        east: data.extent.maxx,
-        nonth: data.extent.maxy
-      };
+      // this.extent = {
+      //   west: data.extent.minx,
+      //   south: data.extent.miny,
+      //   east: data.extent.maxx,
+      //   nonth: data.extent.maxy
+      // };
       this.currentLayer1 = new Cesium.ImageryLayer(
         new Cesium.WebMapServiceImageryProvider({
           url: data.wms,
